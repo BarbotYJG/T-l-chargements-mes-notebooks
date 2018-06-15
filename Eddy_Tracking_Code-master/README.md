@@ -1,0 +1,1 @@
+Eddy detection and tracking code based upon Chelton et al. (Prog. Ocean., 2011). This version of the code is downloaded from Cristopher bull (https://github.com/chrisb13/eddyTracking), then adapted to detect and track eddies in the North Atlantic in boxes of size 10 by 10 degrees.
